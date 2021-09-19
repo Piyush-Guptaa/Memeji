@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "777595259020",
+    "project_id": "memeji-09",
+    "storage_bucket": "memeji-09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777595259020:android:e1de4830b3cd1a905593a9",
+        "android_client_info": {
+          "package_name": "com.example.memeji"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777595259020-850qvi7ibkbg7jvcjkstc2hsesr9ca02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6KW9daKPwbUF7q80IWv-COHV9Svntza8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777595259020-850qvi7ibkbg7jvcjkstc2hsesr9ca02.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
